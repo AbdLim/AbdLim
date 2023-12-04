@@ -18,7 +18,6 @@ I am a UI/UX oriented mobile app engineer with experience in working with except
 
 ```javascript
 const abdulalim_ladan = {
-  pronouns: "he" | "him",
   programming_languages: [ Dart, Java, C#, Javascript, Typescript, Python ],
   tools: [ Flutter, Android, Unity, React, Node, Flask, Figma ],
   hobbies: [ Gaming, GameDev, WatchingAnime ],

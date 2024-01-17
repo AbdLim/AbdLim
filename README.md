@@ -11,7 +11,7 @@ I am a passionate UI/UX-oriented mobile app engineer based in Kaduna, weaving ex
 - Located in Kaduna
 
 ### 🔭 Current Projects
-- Working on |\ss
+- Working on things...🧑🏾‍💻
 
 ### 🌱 Learning
 - Golang

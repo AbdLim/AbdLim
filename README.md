@@ -1,9 +1,9 @@
 # 👋🏽 Hello, i'm Abdulalim Ladan (aka, Cryvax)
 ## 🚀 Flutter Developer | UI/UX Enthusiast
 
-[![LinkedIn](linkedin-badge-link)](https://www.linkedin.com/in/abdulalim-ladan)
-[![Website](website-badge-link)](https://abdulalimladan.onrender.com)
-[![Gmail](gmail-badge-link)](mailto:aaladan453@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulalim-ladan)](https://www.linkedin.com/in/abdulalim-ladan)
+[![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://abdulalimladan.onrender.com)](https://abdulalimladan.onrender.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaladan453@gmail.com)](mailto:aaladan453@gmail.com)
 
 I am a passionate UI/UX-oriented mobile app engineer based in Kaduna, weaving exceptional creativity and foresight into crafting apps and programs that cater to the diverse needs of customers.
 

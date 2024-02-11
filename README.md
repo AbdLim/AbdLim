@@ -1,4 +1,4 @@
-# 👋🏽 Hello, i'm Abdulalim Ladan (aka, Cryvax)
+# 👋🏽 Hello, i'm Abdulalim Ladan
 ## 🚀 Flutter Developer | UI/UX Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulalim-ladan)](https://www.linkedin.com/in/abdulalim-ladan)

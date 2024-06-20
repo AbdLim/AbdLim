@@ -8,7 +8,7 @@
 I am a passionate UI/UX-oriented mobile app engineer based in Kaduna, weaving exceptional creativity and foresight into crafting apps and programs that cater to the diverse needs of customers.
 
 ### 🌍 Location
-- Located in Kaduna
+- Located in Kaduna, Nigeria
 
 ### 🔭 Current Projects
 - Working on things...🧑🏾‍💻
